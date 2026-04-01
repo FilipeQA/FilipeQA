@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Filipe 👋
 
-<!--
-**FilipeQA/FilipeQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Interessado em Suporte Técnico e Desenvolvimento  
+🌱 Atualmente estudando JavaScript, HTML, CSS e Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+- 🎯 Jogo do Número Secreto (JavaScript)
+
+---
+
+## 🛠️ Tecnologias em aprendizado
+- JavaScript
+- HTML & CSS
+- Python
+- Lógica de Programação
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/filipeqa/
+- GitHub: https://github.com/FilipeQA
