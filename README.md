@@ -21,4 +21,3 @@
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/filipeqa/
-- GitHub: https://github.com/FilipeQA
