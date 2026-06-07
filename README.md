@@ -40,7 +40,7 @@ Minha formação na FIAP é estruturada em fases práticas. Abaixo estão as pri
 * [Repositório do Projeto](https://github.com/FilipeQA/jogo-numero-secreto)
   
 #### 📋 Sistema de Cadastro de Usuários
-* **Descrição:** Aplicativo em Python via terminal para cadastrar, listar, buscar e remover usuários. Conta com validações de dados e tratamento de erros.
+* **Descrição:** Aplicativo em Python via terminal para cadastrar, listar, buscar e remover usuários. Conta com validações de dados e tratamento de erros. **Nota: Este projeto está em sua fase inicial (armazenamento em memória) e serve como base para uma futura evolução, onde os dados serão persistidos em um Banco de Dados (DB).**
 * **Tecnologias:** Python
 * [Repositório do Projeto](https://github.com/FilipeQA/sistema-cadastro)
 ---
