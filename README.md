@@ -2,7 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP. Estou focado em construir uma base sólida em desenvolvimento de software, lógica de programação, infraestrutura, banco de dados (SQL) e metodologias ágeis (Scrum/Kanban). 
 
-Busco minha primeira oportunidade de estágio na área de Tecnologia, com total abertura para aprender e atuar em Desenvolvimento (Backend/Frontend), Suporte Técnico, Análise de Sistemas ou Qualidade (QA). Complemento minha formação acadêmica com cursos focados no ecossistema de tecnologia, como Git/GitHub, Cloud AWS, Cibersegurança e Testes.
+Busco minha primeira oportunidade de estágio na área de Tecnologia, com total abertura para aprender e atuar em Desenvolvimento (Backend/Frontend), Suporte Técnico, Análise de Sistemas e Qualidade (QA). Complemento minha formação acadêmica com cursos focados no ecossistema de tecnologia, como Git/GitHub, Cloud AWS, Cibersegurança e Testes.
 
 ---
 
