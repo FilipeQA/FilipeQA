@@ -49,9 +49,10 @@ Minha formação na FIAP é estruturada em fases práticas. Abaixo estão as com
 
 ---
 
-### ⚙️ Cursos Complementares
+### ⚙️ Cursos & Certificações Complementares
 
 * 🌐 **Git e GitHub:** Controle de versionamento e colaboração em projetos.
+* 🚀 **Certificação Cisco Certified Network Associate (CCNA 200-301):** Preparatório para a certificação de redes Cisco *(Em andamento)*.
 * ☁️ **Cloud AWS:** Fundamentos e exploração prática de serviços em nuvem *(Em andamento)*.
 * 🔒 **Cibersegurança:** Fundamentos de segurança da informação e redes *(Em andamento)*.
 * 🧪 **Quality Assurance (QA):** Conceitos de testes de software e gestão de bugs *(Em andamento)*.
