@@ -1,20 +1,22 @@
-# Olá, eu sou o Filipe! 👋
+# Hi, I'm Filipe! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP. Estou focado em construir uma base sólida em desenvolvimento de software, lógica de programação, infraestrutura, banco de dados (SQL) e metodologias ágeis (Scrum/Kanban). 
+Language / Idioma: [Português (Brasil)](./README.pt-br.md) | **English**
 
-Busco minha primeira oportunidade de estágio na área de Tecnologia, com total abertura para aprender e atuar em Desenvolvimento (Backend/Frontend), Suporte Técnico, Análise de Sistemas e Qualidade (QA). Complemento minha formação acadêmica com cursos focados no ecossistema de tecnologia, como Git/GitHub, Cloud AWS, Cibersegurança e Testes.
+I am an undergraduate Systems Analysis and Development student at FIAP. I am focused on building a solid foundation in software development, programming logic, infrastructure, databases (SQL), and agile methodologies (Scrum/Kanban).
+
+I am currently seeking my first internship opportunity in the Technology sector, with an open mindset to learn and contribute to Backend/Frontend Development, Technical Support, Systems Analysis, and Quality Assurance (QA). I supplement my academic education with courses focused on the tech ecosystem, including Git/GitHub, AWS Cloud, Cybersecurity, and Testing.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
-#### Linguagens & Web
+#### Languages & Web
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Dados, Infraestrutura & Ferramentas
+#### Data, Infrastructure & Tools
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -23,45 +25,45 @@ Busco minha primeira oportunidade de estágio na área de Tecnologia, com total 
 
 ---
 
-### 🎓 Jornada Acadêmica & Conhecimentos (FIAP)
+### 🎓 Academic Journey & Core Skills (FIAP)
 
-Minha formação na FIAP é estruturada em fases práticas. Abaixo estão as competências que desenvolvo e aplico em projetos:
+My education at FIAP is structured around practical phases. Below are the competencies I develop and apply in real-world projects:
 
-* **Lógica & Estrutura de Dados:** Criação de algoritmos estruturados, tomada de decisões e loops utilizando Python e JavaScript.
-* **Banco de Dados:** Modelagem Entidade-Relacionamento (MER/DER), normalização de dados e manipulação de queries com SQL.
-* **Engenharia de Software:** Engenharia de Requisitos, Modelagem de Sistemas com UML, Casos de Uso e vivência com metodologias ágeis (Scrum/Kanban).
-* **Interface & UX:** Design de interfaces, responsividade (Flexbox/Grid) e desenvolvimento web semântico.
-* **Tecnologias Emergentes:** Fundamentos de Chatbots, Computação Cognitiva e Inteligência Artificial.
-
----
-
-### 🚀 Meus Projetos
-
-#### 📋 Sistema de Cadastro de Usuários
-* **Descrição:** Aplicativo em Python via terminal para cadastrar, listar, buscar e remover usuários. Conta com validações de dados estruturadas e tratamento de erros.
-* **Tecnologias:** Python
-* [Repositório do Projeto](https://github.com/FilipeQA/sistema-cadastro)
-
-#### 🎯 Jogo do Número Secreto
-* **Descrição:** Jogo interativo desenvolvido para praticar lógica de programação, manipulação de funções e escopo no JavaScript.
-* **Tecnologias:** JavaScript, HTML5, CSS3
-* [Repositório do Projeto](https://github.com/FilipeQA/jogo-numero-secreto)
+* **Logic & Data Structures:** Developing structured algorithms, conditional logic, and control loops using Python and JavaScript.
+* **Databases:** Entity-Relationship Modeling (ERD), data normalization, and query manipulation using SQL.
+* **Software Engineering:** Requirements Engineering, Systems Modeling with UML, Use Cases, and hands-on experience with agile methodologies (Scrum/Kanban).
+* **Interface & UX:** UI design, responsiveness (Flexbox/Grid), and semantic web development.
+* **Emerging Technologies:** Fundamentals of Chatbots, Cognitive Computing, and Artificial Intelligence.
 
 ---
 
-### ⚙️ Cursos & Certificações Complementares
+### 🚀 Featured Projects
 
-* 🌐 **Git e GitHub:** Controle de versionamento e colaboração em projetos.
-* 🚀 **Certificação Cisco Certified Network Associate (CCNA 200-301):** Preparatório para a certificação de redes Cisco *(Em andamento)*.
-* ☁️ **Cloud AWS:** Fundamentos e exploração prática de serviços em nuvem *(Em andamento)*.
-* 🔒 **Cibersegurança:** Fundamentos de segurança da informação e redes *(Em andamento)*.
-* 🧪 **Quality Assurance (QA):** Conceitos de testes de software e gestão de bugs *(Em andamento)*.
+#### 📋 User Registration System
+* **Description:** A terminal-based Python application designed to register, list, search, and remove users. It features structured data validation and exception handling.
+* **Technologies:** Python
+* [Project Repository](https://github.com/FilipeQA/sistema-cadastro)
+
+#### 🎯 Secret Number Game
+* **Description:** An interactive web game developed to practice programming logic, function manipulation, and scope within JavaScript.
+* **Technologies:** JavaScript, HTML5, CSS3
+* [Project Repository](https://github.com/FilipeQA/jogo-numero-secreto)
 
 ---
 
-### 📫 Contato
+### ⚙️ Courses & Complementary Certifications
+
+* 🌐 **Git and GitHub:** Version control and project collaboration.
+* 🚀 **Cisco Certified Network Associate (CCNA 200-301):** Preparation for the Cisco networking certification *(In progress)*.
+* ☁️ **AWS Cloud:** Fundamentals and practical exploration of cloud services *(In progress)*.
+* 🔒 **Cybersecurity:** Information security and networking fundamentals *(In progress)*.
+* 🧪 **Quality Assurance (QA):** Software testing concepts and bug lifecycle management *(In progress)*.
+
+---
+
+### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipeqa/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipeqamado@gmail.com)
 
-*📍 Baseado em Brasília, DF - Brasil (Disponível para trabalho remoto ou presencial)*
+*📍 Based in Brasília, DF - Brazil (Available for remote or hybrid/onsite opportunities)*
