@@ -39,6 +39,12 @@ Minha formação na FIAP é estruturada em fases práticas. Abaixo estão as com
 
 ### 🚀 Meus Projetos
 
+#### 🧪 Desafio Técnico - Easy Secrets
+* **Descrição:** Projeto de automação de testes End-to-End desenvolvido como parte de um desafio técnico para Estágio em QA Automation. Automatiza o fluxo completo de cadastro, login, adição e remoção de produtos utilizando uma arquitetura baseada em Page Object Model.
+* **Destaques:** Playwright, TypeScript, Page Object Model (POM), GitHub Actions (CI), asserções automatizadas e arquitetura reutilizável.
+* **Tecnologias:** Playwright, TypeScript, Node.js e GitHub Actions.
+* [Repositório do Projeto](https://github.com/FilipeQA/Desafio-tecnico-Easysecrets)
+
 #### 📋 Sistema de Cadastro de Usuários
 * **Descrição:** Aplicativo em Python via terminal para cadastrar, listar, buscar e remover usuários. Conta com validações de dados estruturadas e tratamento de erros.
 * **Tecnologias:** Python
@@ -53,11 +59,12 @@ Minha formação na FIAP é estruturada em fases práticas. Abaixo estão as com
 
 ### ⚙️ Cursos & Certificações Complementares
 
+* 🧪 **Quality Assurance (QA):** Conceitos de testes de software e gestão de bugs.
 * 🌐 **Git e GitHub:** Controle de versionamento e colaboração em projetos.
 * 🚀 **Certificação Cisco Certified Network Associate (CCNA 200-301):** Preparatório para a certificação de redes Cisco *(Em andamento)*.
 * ☁️ **Cloud AWS:** Fundamentos e exploração prática de serviços em nuvem *(Em andamento)*.
 * 🔒 **Cibersegurança:** Fundamentos de segurança da informação e redes *(Em andamento)*.
-* 🧪 **Quality Assurance (QA):** Conceitos de testes de software e gestão de bugs *(Em andamento)*.
+
 
 ---
 
