@@ -37,7 +37,13 @@ My education at FIAP is structured around practical phases. Below are the compet
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects Portfolio
+
+#### 🧪 Easy Secrets - QA Automation Challenge
+* **Description:** End-to-end test automation project developed as part of a QA Automation technical challenge. Covers user registration, login, product management, and cart validation using a maintainable Page Object Model architecture.
+* **Highlights:** Playwright, TypeScript, Page Object Model (POM), GitHub Actions (CI), automated assertions, reusable architecture.
+* **Technologies:** Playwright, TypeScript, Node.js, GitHub Actions
+* [Project Repository](https://github.com/FilipeQA/Desafio-tecnico-Easysecrets)
 
 #### 📋 User Registration System
 * **Description:** A terminal-based Python application designed to register, list, search, and remove users. It features structured data validation and exception handling.
