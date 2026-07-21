@@ -59,11 +59,12 @@ My education at FIAP is structured around practical phases. Below are the compet
 
 ### ⚙️ Courses & Complementary Certifications
 
+* 🧪 **Quality Assurance (QA):** Software testing concepts and bug lifecycle management.
 * 🌐 **Git and GitHub:** Version control and project collaboration.
 * 🚀 **Cisco Certified Network Associate (CCNA 200-301):** Preparation for the Cisco networking certification *(In progress)*.
 * ☁️ **AWS Cloud:** Fundamentals and practical exploration of cloud services *(In progress)*.
 * 🔒 **Cybersecurity:** Information security and networking fundamentals *(In progress)*.
-* 🧪 **Quality Assurance (QA):** Software testing concepts and bug lifecycle management *(In progress)*.
+* 🧪 **Quality Assurance (QA):** Software testing concepts and bug lifecycle management.
 
 ---
 
